@@ -1,3 +1,4 @@
+<img width="1917" height="865" alt="image" src="https://github.com/user-attachments/assets/21ab77df-aaef-4a9a-b83c-c004412ee95b" />
 # Lexi Legal Assistant Frontend
 
 **Author:** Priyanshi Sharma  
